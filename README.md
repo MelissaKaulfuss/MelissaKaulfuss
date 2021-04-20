@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/MelissaKaulfuss/MelissaKaulfuss/master/readme_header.png "Header")]
+![image](https://raw.githubusercontent.com/MelissaKaulfuss/MelissaKaulfuss/master/readme_header.png "Header")
 
 # Hey folks :wave:
 
