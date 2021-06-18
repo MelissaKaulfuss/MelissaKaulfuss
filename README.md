@@ -4,9 +4,10 @@
 
 My name is Mel Kaulfuss and I'm a software engineer and developer advocate at [Buildkite](https://buildkite.com). I'm from Melbourne, Australia. You can find me on [![Twitter][1.2]][1].
 
-## &#x270d; Writing
+## &#x270d; Other things
 
-Apart from coding and tweeting - you can find my writing on [DEV.to](https://dev.to/melissakaulfuss).
+Apart from coding and tweeting - you can find my writing on [DEV.to](https://dev.to/melissakaulfuss). 
+I also occassionally make sticky tape art & obsessively watch Nordic Noir TV series'.
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
