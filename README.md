@@ -2,7 +2,7 @@
 
 # Hey folks :wave:
 
-My name is Mel Kaulfuss and I'm a software engineer and now developer advocate at [Buildkite](https://buildkite.com). I'm from Melbourne, Australia. You can find me on [![Twitter][1.2]][1].
+My name is Mel Kaulfuss and I'm a software engineer and Developer Advocate at [Buildkite](https://buildkite.com). I'm from Melbourne, Australia. You can find me on [![Twitter][1.2]][1], and I'm **@m3lk@ruby.social** on Mastodon.
 
 ## &#x270d; Other things
 
