@@ -2,18 +2,8 @@
 
 # Hey folks :wave:
 
-My name is Mel Kaulfuss and I'm a software engineer and Developer Advocate at [Buildkite](https://buildkite.com). I'm from Melbourne, Australia. You can find me on [![Twitter][1.2]][1], and I'm **@m3lk@ruby.social** on Mastodon.
+My name is Mel Kaulfuss and I'm a Technical Community Advocate at [Stile](https://stileeducation.com/au/). I'm from Melbourne, Australia. I'm **@mello** on [Bluesky](https://bsky.app), and I'm **@m3lk@ruby.social** on Mastodon.
 
 ## &#x270d; Other things
 
-Apart from coding and tweeting - you can find my writing on [DEV.to](https://dev.to/melissakaulfuss). 
-I also occassionally make sticky tape art & obsessively watch Nordic Noir TV series'.
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-[1]: https://twitter.com/MelissaKaulfuss
-[2]: https://github.com/MelissaKaulfuss
+I also occassionally make sticky tape art, watch waaaaay too much k-drama, and love to say hi to dogs.
